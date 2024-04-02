@@ -1,0 +1,3 @@
+[submodule "vendor/Repo-1-awesome-module-"]
+	path = vendor/Repo-1-awesome-module-
+	url = https://github.com/Tobithetaskmanager/Repo-1-awesome-module-
